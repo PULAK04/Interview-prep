@@ -10,11 +10,15 @@
     transition: all 0.3s ease-in-out;
 
     &.primary-button{
-        background-color: #e1034d;
+        background-color: #045b61;
         color: white;
     }
 
     &:active{
         transform: scale(0.9);
+    }
+
+    &:hover {
+        background: #059faa;
     }
 }
