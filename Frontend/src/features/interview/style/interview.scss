@@ -1,22 +1,22 @@
-// ── Shared Variables (Teal-Cyan Aesthetic) ───────────────────────────────────
-$bg-page:       #021018;   // page background
-$bg-card:       #071a24;   // main layout container
-$bg-panel:      #0b2230;   // cards/panels
-$bg-input:      #0d2838;   // inputs
-$border-color:  #164052;   // borders
 
-$text-primary:  #eafcff;   // primary text
-$text-muted:    #6fa7b6;   // muted text
+$bg-page:       #021018;   
+$bg-card:       #071a24;  
+$bg-panel:      #0b2230;   
+$bg-input:      #0d2838;   
+$border-color:  #164052;   
 
-$accent:        #22d3ee;   // cyan
-$accent-alt:    #14b8a6;   // teal
+$text-primary:  #eafcff;   
+$text-muted:    #6fa7b6;  
+
+$accent:        #22d3ee;   
+$accent-alt:    #14b8a6;   
 
 $font-stack: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 
 // Severity Palette
-$severity-high:   #ff5f7a; // high severity
-$severity-medium: #fbbf24; // medium severity
-$severity-low:    #22c55e; // low severity
+$severity-high:   #ff5f7a; 
+$severity-medium: #fbbf24; 
+$severity-low:    #22c55e; 
 
 *::-webkit-scrollbar {
     display: none;
